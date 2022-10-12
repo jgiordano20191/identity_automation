@@ -4,8 +4,8 @@ Automating Azure AD
 
 # TECH
 
-Azure AD
-MS Graph
-Python SDK
+- Azure AD
+- Python SDK
+- API
 
 #Diagram
